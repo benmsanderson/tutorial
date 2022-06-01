@@ -1,4 +1,3 @@
 Here are some example notebooks for the CICERO Python tutorial
 Lanch them in binder:
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/benmsanderson/tutorial.git/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benmsanderson/tutorial.git/HEAD)
